@@ -5,6 +5,7 @@
 </p>
 
 <div align="center">  
+  
 🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java
 
 
@@ -13,4 +14,9 @@
 💬 Sou entusiasta no desenvolvimento Java para APIs
 
 😄 Pronomes: Ele/Dele
+</div>
+<div align="center">
+  <a href="https://github.com//Fcarlos1994">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MateusSouzaAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCarlos&layout=compact&langs_count=7&theme=dark"/>
 </div>

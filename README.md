@@ -24,7 +24,7 @@
     
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Ícone Python" height="30" width="40" style="display: block; margin: 0 auto;">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Ícone Python" height="30" width="40" style="display: block; margin: 0 auto;">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 

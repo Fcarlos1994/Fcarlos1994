@@ -1,7 +1,69 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+FCarlos1994!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
-  </a>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apresentação FCarlos1994</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: white;
+            text-align: center;
+        }
+        .container {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            max-width: 600px;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        .emoji-container {
+            font-size: 2.5rem;
+            margin: 20px 0;
+        }
+        .code {
+            background-color: #2d2d2d;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            text-align: left;
+            font-family: 'Fira Code', monospace;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Apresentação FCarlos1994</h1>
+        
+        <div class="emoji-container">
+            <p>☕🐍</p>
+        </div>
+        
+        <p>Olá! Eu sou o FCarlos1994 e sou desenvolvedor Python.</p>
+        
+        <div class="code">
+            <p align="center">
+                <a href="https://git.io/typing-svg">
+                    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+FCarlos1994!+%E2%98%95%F0%9F%90%8D%F0%9F%92%BB%F0%9F%8C%9F" alt="Typing SVG">
+                </a>
+            </p>
+        </div>
+        
+        <p>O símbolo do Python (🐍) foi adicionado após o símbolo da xícara (☕) no código acima!</p>
+    </div>
+</body>
+</html>
 </p>
 
 <div align="center">  
